@@ -2,3 +2,4 @@ this is myfirstgit file.So welcome dears!
 Attendance Tracking
 Staff Availability Checking
 SMS alert to parents
+using rfid
